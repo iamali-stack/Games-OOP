@@ -34,18 +34,7 @@ Games OOP is a front-end web application designed to showcase a collection of fr
 
 ---
 
-### How to Run:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/games-oop.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd games-oop
-   ```
-3. Open index.html in your browser to view the application.
 
----
 
 ### API Key Configuration:
 This project uses the Free-to-Play Games Database API. Replace the placeholder API key in main.js and details.js with your own key from [RapidAPI](https://rapidapi.com/).
